@@ -1,5 +1,5 @@
 # Time-Series-Forecast
-Time Series Forecast using GluonTS, FBProphet and Deep Learning with AutoKeras
+Time Series Forecast using GluonTS, FBProphet and Deep Learning with AutoKeras (https://arxiv.org/abs/1802.03268)
 ## 1. Facebook Prophet demo to predict transactions with holidays input
 * Prophet with default settings
 * Change Fouries_Order
@@ -12,7 +12,7 @@ Time Series Forecast using GluonTS, FBProphet and Deep Learning with AutoKeras
 ## 3. GluonTS Demo to predict CombineCyclePowerLoad
 ## 4. AutoKeras Demo to predict CombineCyclePowerLoad with ENAS(Efficient Neural Architecture Search-HieuPham)
 ## 5. ENAS Pytorch implementation of HieuPham's Paper
-https://arxiv.org/abs/1802.03268
+
 
 
 
