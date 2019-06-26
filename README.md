@@ -7,9 +7,14 @@ Time Series Forecast using GluonTS, FBProphet and Deep Learning with AutoKeras -
 * Trend Flexibility
 * Add Seasonality
 * Add Holidays
+
+![Predict 1 Year transaction ahead](/images/1YearTracsaction.png)
 ## 2. Facebook Prophet demo to predict CombineCyclePowerLoad with multiple external regressors
+[FB_Prophet_Predict_CombinedCyclePowerLoadForecast.ipynb](./FB_Prophet_Predict_CombinedCyclePowerLoadForecast.ipynb) [<img src="https://www.python.org/static/favicon.ico"  width=16>](https://www.python.org/static/favicon.ico)
 * How to muliple feature into Prophet?
 * How to add multiple new external regressors?
+
+![Predict 36 hours ahead](/images/36Hours.png)
 ## 3. GluonTS Demo to predict CombineCyclePowerLoad
 ## 4. AutoKeras Demo to predict CombineCyclePowerLoad with ENAS(Efficient Neural Architecture Search-HieuPham)
 ## 5. ENAS Pytorch implementation of HieuPham's Paper
