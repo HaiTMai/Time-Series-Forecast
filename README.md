@@ -10,7 +10,7 @@ Time Series Forecast using GluonTS, FBProphet and Deep Learning with AutoKeras -
 
 ![Predict 1 Year transaction ahead](/images/1YearTracsaction.png)
 ## 2. Facebook Prophet demo to predict CombineCyclePowerLoad with multiple external regressors
-[FB_Prophet_Predict_CombinedCyclePowerLoadForecast.ipynb](./FB_Prophet_Predict_CombinedCyclePowerLoadForecast.ipynb) [<img src="https://www.python.org/static/favicon.ico"  width=16>](https://www.python.org/static/favicon.ico)
+[FB_Prophet_Predict_CombinedCyclePowerLoadForecast.ipynb](./FB_Prophet_CombinedCyclePowerLoad_Forecast.ipynb) [<img src="https://www.python.org/static/favicon.ico"  width=16>](https://www.python.org/static/favicon.ico)
 * How to muliple feature into Prophet?
 * How to add multiple new external regressors?
 
