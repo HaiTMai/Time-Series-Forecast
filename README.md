@@ -15,7 +15,7 @@ Time Series Forecast using GluonTS, FBProphet and Deep Learning with AutoKeras -
 * How to add multiple external regressors?
 
 ![Predict 36 hours ahead](/images/36Hours.png)
-## 3. GluonTS Demo to predict CombindeCyclePowerLoad
+## 3. GluonTS Demo to predict CombinedCyclePowerLoad
 ## 4. AutoKeras Demo to predict CombinedCyclePowerLoad with ENAS(Efficient Neural Architecture Search-HieuPham)
 ## 5. ENAS Pytorch implementation of HieuPham's Paper
 
