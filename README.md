@@ -21,8 +21,15 @@ Time Series Forecast using GluonTS, FBProphet and Deep Learning with AutoKeras -
 * How to use other SimpleModel in gluonTS to predict
 
 ![Predict next 12 data ahead](/images/GluonTS_Forecast.png)
-## 4. AutoKeras Demo to predict CombinedCyclePowerLoad with ENAS(Efficient Neural Architecture Search-HieuPham)
-## 5. ENAS Pytorch implementation of HieuPham's Paper
+## 4. Basic Statistical Models to predict time series (Uni/Multivariable)
+[BasicMLForecast.ipynb](./BasicMLForecast.ipynb) [<img src="https://www.python.org/static/favicon.ico"  width=16>](https://www.python.org/static/favicon.ico)
+* How to predict with Univariable time series?
+* How to predict with Multivariable time series?
+* How to add exogenous regressors into the Statistical Model to predict?
+
+![SARIMA](/images/SARIMA.png)
+![SARIMAX](/images/SARIMAX.png)
+## 5. AutoKeras Demo to predict CombinedCyclePowerLoad with ENAS(Efficient Neural Architecture Search-HieuPham)
 
 
 
